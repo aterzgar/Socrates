@@ -54,9 +54,3 @@ sns.barplot(x=calories_for_manufacturer.index, y=calories_for_manufacturer)
 plt.xlabel("Manufacturer")
 plt.ylabel("Calories")
 plt.show()
-
-
-
-
-
-
